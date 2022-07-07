@@ -3,7 +3,7 @@ A open would game that you play as a fish and navigate the whole world without l
 
 To get started:
 1. install python with pip. (https://www.python.org) click for installing python
-2. Once you had python installed, type: pip install ursina
+2. Once you had python installed, type: pip install ursina and pip install noise
 3. Go the the directory of ocean.py and run it threw python by going to your cmd or console and typing python ocean.py
 4. Wait untill you see something and you're done!
 
